@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:4A8C7F7A
+NODE:V LEVEL:0 LINE:1 "video_ram -> RAM:????"
+NODE:V LEVEL:0 LINE:2 "cursor -> R5"
+NODE:V LEVEL:0 LINE:2 "seg_pattern -> R4"
+NODE:F LEVEL:0 LINE:4 "seg_init(void)"
+NODE:F LEVEL:0 LINE:36 "make_pattern(unsigned char data)"
+NODE:F LEVEL:0 LINE:194 "display(unsigned char position,unsigned char data)"
+NODE:F LEVEL:0 LINE:199 "refresh_display(void)"
